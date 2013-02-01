@@ -40,5 +40,5 @@
 
 **中央値(メディアン)**  
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=y=Aexp(- \frac{t}{\tau}))
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=y=Aexp(-(\frac{t}{\tau})))
 
