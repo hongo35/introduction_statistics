@@ -14,7 +14,7 @@
 * 順位尺度  
 世帯主の所得階層など、カテゴリーに順序が付けられるもの  
   
-
+---
 #### 2.2 度数分布表とヒストグラム  
 量的データのまとめ方について。  
 同じ種類の観測値がある程度大量に観測される場合には、データを度数分布表に整理し、ヒストグラムを描くというのがよく用いられる方法である。  
@@ -36,7 +36,7 @@
 必要ならば、度数を順に加えあわせて計算される **累積度数** を計算しておくとよい。さらに、度数、累積度数を観測地の総数nとの比率に直した **相対度数** , **相対累積度数** も計算しておくとよい。  
 度数分布を図にしたのが **ヒストグラム** である。  
   
-
+---
 #### 2.3 分布の中心的位置を表す統計量  
 
 **中央値(メディアン)**  
@@ -52,7 +52,7 @@
 離散データの場合には最も度数の大きい観測値という理解で十分。  
 連続データの場合には、通常、度数分布表に整理した上で最頻値を考える。  
   
-
+---
 #### 2.4 分布のばらつき(変動)を表す統計量  
 **分散**  
 個々の観測値 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=x_{i}) と平均値 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\overline x) との差  
@@ -81,14 +81,23 @@
 区間(x-2s,x+2s)にある観測値の割合は95%程度  
 区間(x-3s,x+3s)にある観測値の割合は99.7%程度  
 
+---
 #### 2.5 平均値と標準偏差の計算  
 最もよく用いられるのは平均値と標準偏差のペア
   
-*平均値,標準偏差の性質*  
+**平均値,標準偏差の性質**  
 元の観測値x1,x2...のそれぞれから定数aを引き,u1,u2...とすると,  
 
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\overline u=\\overline x-a)
-,![alt text](http://chart.apis.google.com/chart?cht=tx&chl=s_{u}=s_{x})
+,![alt text](http://chart.apis.google.com/chart?cht=tx&chl=s_{u}=s_{x})  
+
+また,元の観測値x1,x2...のそれぞれに正の定数bを掛けて,v1,v2...とすると,  
+
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\overline v=b\\overline x)
+,![alt text](http://chart.apis.google.com/chart?cht=tx&chl=s_{v}=bs_{x})  
+
+---
+#### 2.6 偏差値  
 
 
 
