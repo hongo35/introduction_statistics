@@ -54,5 +54,5 @@
 #### 2.4 分布のばらつき(変動)を表す統計量  
 個々の観測値と平均値との差  
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=x_{i}-\overline%20x)
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=x_{i}-\\overline%20x)
 
