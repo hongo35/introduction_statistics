@@ -54,11 +54,11 @@
 #### 2.4 分布のばらつき(変動)を表す統計量  
 個々の観測値 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=x_{i}) と平均値 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\overline x) との差  
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=x_{i}-\\overlinex)  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=x_{i}-\\overline x)  
 
 偏差をそのまま合計すると0になってしまうので、偏差を2乗してから合計する。
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=S=%5Csum_{i=1}^n(x_{i}-%5Coverlinex)%5E2)  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=S=%5Csum_{i=1}^n((x_{i}-%5Coverline x))%5E2)  
 
 
 
