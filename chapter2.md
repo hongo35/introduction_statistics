@@ -58,7 +58,7 @@
 
 偏差をそのまま合計すると0になってしまうので、偏差を2乗してから合計する。
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=S=\\sum_{i=1}^n{(x_{i}-\\overline x)}^2)  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=S=%5Csum_{i=1}^n(x_{i}-%5Coverline x)%5E2)  
 
 
 
