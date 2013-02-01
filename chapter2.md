@@ -52,7 +52,7 @@
 連続データの場合には、通常、度数分布表に整理した上で最頻値を考える。  
 
 #### 2.4 分布のばらつき(変動)を表す統計量  
-個々の観測値と平均値との差  
+個々の観測値 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=x_{i}) と平均値 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\overline%20x) との差  
 
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=x_{i}-\\overline%20x)
 
