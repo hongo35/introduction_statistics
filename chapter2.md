@@ -52,6 +52,7 @@
 連続データの場合には、通常、度数分布表に整理した上で最頻値を考える。  
 
 #### 2.4 分布のばらつき(変動)を表す統計量  
+**分散**  
 個々の観測値 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=x_{i}) と平均値 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\overline x) との差  
 
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=x_{i}-\\overline x)  
@@ -63,7 +64,13 @@
 これを **偏差平方和** ,あるいは単に **平方和** とよぶ.  
 そして,偏差の2乗という量の平均  
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=s^2=\\frac{1}{n-1}\sum_{i=1}^n((x_{i}-%5Coverline x))^2)  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=s^2=\\frac{1}{n-1}\\sum_{i=1}^n((x_{i}-%5Coverline x))^2)  
 
-を分散とよぶ.
+を **分散** とよぶ.
+
+**標準偏差**  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=s=\\sqrt{s^2})  
+
+分散の平方根を取ることによって単位が元の観測値と同じになり,意味がつかみやすくなる.
+
 
