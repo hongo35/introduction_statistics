@@ -109,7 +109,7 @@
   
 偏差値は平均値が50,標準偏差が10になるように1次変換して得られる値.
   
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=z_{i}=50%2B10\\frac{x_{i}-\\overline x}{s_{x}})
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=z_{i}=50%2B\\frac{x_{i}-\\overline x}{s_{x}}\\times 10)
   
 ---
 #### 2.8 時系列データ
