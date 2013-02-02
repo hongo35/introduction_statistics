@@ -61,12 +61,12 @@
 
 偏差をそのまま合計すると0になってしまうので,偏差を2乗してから合計する.
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=S=%5Csum_{i=1}^n((x_{i}-%5Coverline x))^2)  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=S=%5Csum_{i=1}^n(x_{i}-%5Coverline x)^2)  
 
 これを **偏差平方和** ,あるいは単に **平方和** とよぶ.  
 そして,偏差の2乗という量の平均  
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=s^2=\\frac{1}{n-1}\\sum_{i=1}^n((x_{i}-%5Coverline x))^2)  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=s^2=\\frac{1}{n-1}\\sum_{i=1}^n(x_{i}-%5Coverline x)^2)  
 
 を **分散** とよぶ.
 
@@ -98,6 +98,32 @@
 
 ---
 #### 2.6 偏差値  
+**標準化**  
+データx1,x2...の平均値を0,標準偏差を1にしたければ,
+  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=z_{i}=\\frac{x_{i}-\\overline x}{s_{x}})
+  
+とすればよい。この操作を **標準化** という.
+  
+**偏差値**
+  
+偏差値は平均値が50,標準偏差が10になるように1次変換して得られる値.
+  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=z_{i}=50%2B10\\frac{x_{i}-\\overline x}{s_{x}})
+  
+---
+#### 2.8 時系列データ
+  
+数年から数十年に渡るような,特に経済活動に関しての時系列データは通常
+* 長期にわたる **傾向変動(トレンド)**  
+* 1年を周期とした **季節変動**  
+* 数年を周期とした **循環変動**  
+* **不規則変動**
+  
+の4つの重なり合ったものとして理解される.
+  
+**移動平均**  
+略
 
 
 
