@@ -61,12 +61,12 @@
 
 偏差をそのまま合計すると0になってしまうので,偏差を2乗してから合計する.
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=S=%5Csum_{i=1}^n(x_{i}-%5Coverline x)^2)  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=S=%5Csum_{i=1}^n(x_{i}-%5Coverline x) ^2)  
 
 これを **偏差平方和** ,あるいは単に **平方和** とよぶ.  
 そして,偏差の2乗という量の平均  
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=s^2=\\frac{1}{n-1}\\sum_{i=1}^n(x_{i}-%5Coverline x)^2)  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=s^2=\\frac{1}{n-1}\\sum_{i=1}^n(x_{i}-%5Coverline x) ^2)  
 
 を **分散** とよぶ.
 
