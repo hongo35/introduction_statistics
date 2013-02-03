@@ -11,7 +11,7 @@
 
 一般に,各試行でSの起こる確率をpとした時,n回のベルヌーイ試行列でSの起こる回数xの確率分布は次の確率関数により与えられる.  
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=p(x)=\\begin{eqnarray}{}_nC_x\\end{eqnarray}p^{x}q^{n-x})  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=p(x\)=\\begin{eqnarray}{}_nC_x\\end{eqnarray}p^{x}q^{n-x})  
 
 ここで,q=1-pである.この確率分布を **二項分布** とよぶ.  
 
