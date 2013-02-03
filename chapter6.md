@@ -15,5 +15,18 @@
 
 ここで,q=1-pである.この確率分布を **二項分布** とよぶ.  
 
+pおよびnを指定して初めて1つの具体的な分布になるが,これをB(n,p)と表す.  
+
+**2項分布の平均と標準偏差**  
+
+一般の2項分布B(n,p)については  
+平均  μ=np  
+分散  ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\sigma^2=npq)  
+標準偏差  ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\sigma=\\sqrt{npq})  
+
+であることが示される.(証明はテキストを参照)  
+
+---
+#### 6.2 ポアソン分布  
 
 
