@@ -30,6 +30,13 @@
 
 **相関係数**  
 
+2つの変数xとyについてn組の観測値が得られた時,xとyの **相関係数** rは,  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=r=\\frac{s_{xy}}{s_{x}s_{y}})  
+である.  
+
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=s_{xy}=\\frac{\\sum_{i=1}^n(x_{i}-\\overline x)(y_{i}-\\overline y)}{n-1})  
+はxとyの **共分散** とよばれる.  
+
 
 
 
