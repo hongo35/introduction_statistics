@@ -31,7 +31,7 @@ pおよびnを指定して初めて1つの具体的な分布になるが,これ�
 
 確率変数xの確率関数が,  
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\frac{\\lambda^x}{x!}e^{-\\lambda})  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=p(x\)=\\frac{\\lambda^x}{x!}e^{-\\lambda})  
 
 で与えられる時,これを(平均λ)の **ポアソン分布** という.  
 
@@ -46,4 +46,20 @@ pおよびnを指定して初めて1つの具体的な分布になるが,これ�
 正規分布の確率密度関数は,  
 
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=f(x\)=\\frac{1}{\\sqrt{2\\pi}\\sigma}e^{-\\frac{(x-\\mu\)^2}{2\\sigma^2}})  
+
+平均μ,標準偏差σの正規分布を ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=N(\\mu,\\sigma^2\)) と書く  
+
+* σの値を一定にしてμを変えた場合  
+分布の形状はそのままに,平行移動されるだけ.  
+
+* μの値を一定にしたままσの値を変えた場合  
+標準偏差を2倍にすると,μでの高さを半分に押しつぶし,μの両側へ2倍押し広げた形になる.  
+
+標準化をした場合,xが正規分布 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=N(\\mu,\\sigma^2\)) にしたがう時, ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\frac{x-\\mu}{\\sigma}) は正規分布N(0,1)にしたがう.正規分布N(0,1)を特に **標準正規分布** という.  
+一般の正規分布 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=N(\\mu,\\sigma^2\)) についての確率やパーセント点を求める問題は標準正規分布N(0,1)についてのそれに帰着される  
+
+**確率およびパーセント点の計算**  
+
+付表1,2を使いましょう.  
+
 
