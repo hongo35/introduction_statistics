@@ -34,8 +34,6 @@
 **互いに排反** ・・・ 二つの事象が同時には起こりえない。
 
 
-//Coverline%20x
-
 **確率**
 > 確率は多数回の実験の中で, その事象の起こる回数の比率である
 
@@ -73,7 +71,16 @@
 
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\(B|A\)={\\frac{P\(A{\\cap}B\)}{P\(A\)}) 
 
+**乗法公式（乗法定理）**
+条件つき確率を変形して下記。
 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl={P\(A{\\cap}B\)}={{P\(A\)}\\times{P\(B|A\)}) 
+
+**事象の独立性**
+
+二つの事象A、Bについて下記が成り立つ場合をAとBとは独立であると言う。
+
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl={P\(A{\\cap}B\)}={{P\(A\)}{P\(B\)}) 
 
 ---
 ####4.5 ベイズの定理
