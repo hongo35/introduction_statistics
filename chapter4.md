@@ -103,8 +103,31 @@
 
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl={P\(A_i|B_j\)}={\\frac{{P\(A_i\)}{P\(B_j|A_i\)}}{\\sum_{k=1}^aP\(A_k\)P\(B_j|A_k\)}}\({i=1,2,...a,}{j=1,2,...,b}\))
 
+
+（※編者注：事象Aが先に起こった条件として得た確率を用いて、事象Bが先に起こる場合にはどのような確率になるかを示している？ツッコミ歓迎）
+
 ---
 ####4.6 順列・組合せ
 
+#####4.6.1 順列
+一般にn個の異なるものから、r個を取り出して並べて作る順列の数をnPrと表すと
 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=_nP_r=n\(n-1\)...\(n-r%2b{1}\))
 
+**階乗**の記号を
+
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=n!=n\(n-1\)...1)
+
+で定義し、0!=1と約束すれば
+
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=_nP_r=\\frac{n!}{\(n-r\)!})
+
+#####4.6.2 組合せ
+
+一般に、n個の異なるものからr個を取り出して並べて作る**組合せ**の数をnCrと表すと
+
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=_nC_r=\\frac{_nP_r}{r!})
+
+階乗の記号を用いて
+
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=_nC_r=\\frac{n!}{r!\(n-r\)!})
