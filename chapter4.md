@@ -85,6 +85,24 @@
 ---
 ####4.5 ベイズの定理
 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=A_1,A_2,...,A_a)が互いに排反であり、かつ、
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=A_1{\\cap}A_2{\\cap}...{\\cap}A_a=\\Omega)
+
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=B_1,B_2,...,B_b)が互いに排反であり、かつ、
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=B_1{\\cap}B_2{\\cap}...{\\cap}B_b=\\Omega)
+
+とする。
+
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\(A_i\),\({i=1,2,...a,}\))
+
+および
+
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\(B_j|A_k\)\({i=1,2,...a,}{j=1,2,...,b}\))
+
+が与えられたとき、P(Ai|Bj)は
+
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl={P\(A_i|B_j\)}={\\frac{{P\(A_i\)}{P\(B_j|A_i\)}}{\\sum_{k=1}^aP\(A_k\)P\(B_j|A_k\)}}\({i=1,2,...a,}{j=1,2,...,b}\))
+
 ---
 ####4.6 順列・組合せ
 
