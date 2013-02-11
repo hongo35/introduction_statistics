@@ -73,6 +73,6 @@
 
 連続の曲線は関数 f(x) で表され、確率は区間の部分積分で求めることが出来る。
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\left\{a<x<b\right\}=\int_{a}^{b} f(x) dx)  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\left\{a<x<b\right\}=\int_{a}^{b} f(x) \d\x)  
 
 
