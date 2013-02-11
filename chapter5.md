@@ -17,9 +17,24 @@
   <td>出る目の数</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td>
 </tr>
 <tr>
-  <td>確率</td><td>1/6</td><td>1/6</td><td>1/6</td><td>1/6</td><td>1/6</td><td>1/6</td>
+  <td>確率（分布）</td><td>1/6</td><td>1/6</td><td>1/6</td><td>1/6</td><td>1/6</td><td>1/6</td>
 </tr>
 </table>
+
+
+
+例）
+サイコロを２回投げる　⇒　出る目の数が確率変数
+
+<table>
+<tr>
+  <td>出る目の数</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td>
+</tr>
+<tr>
+  <td>確率（分布）</td><td>1/36</td><td>2/36</td><td>3/36</td><td>4/36</td><td>5/36</td><td>6/36</td><td>5/36</td><td>4/36</td><td>3/36</td><td>2/36</td><td>1/36</td>
+</tr>
+</table>
+
 
 
 #### 質的変数について  
