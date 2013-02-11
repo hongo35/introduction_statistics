@@ -64,6 +64,8 @@
 * 連続型確率変数  
 上記サイコロの例のように確率変数が離散値。
 
+![alt text](https://picasaweb.google.com/lh/photo/DDPFuU92lC03BpV37nGwY9MTjNZETYmyPJy0liipFm0?feat=directlink) 
+
 
 
 
