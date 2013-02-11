@@ -69,6 +69,8 @@
 ![alt text](https://lh6.googleusercontent.com/-7mpGuiE0fJw/URkBNduz5XI/AAAAAAAAArc/FlnjgESUUlA/s402/%25E3%2583%2592%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25AF%25E3%2582%2599%25E3%2583%25A9%25E3%2583%25A0.png) 
 
 
+ある程度、データ数を大きくすればグラフが「なめらか」になり連続としての性質を持つようになる。
 
+連続の曲線は関数 f(x) で表され、確率は区間の部分積分で求めることが出来る
 
 
