@@ -34,6 +34,7 @@
 </tr>
 </table>
 
+斜めに数えると上の分布がわかる。
 
 <table>
 <tr><td>1-1 </td><td>2-1 </td><td>3-1 </td><td>4-1 </td><td>5-1 </td><td>6-1</td></tr>
