@@ -94,7 +94,7 @@
 
 区間[a, b]に属する確率は区間の部分積分で求めることが出来る。
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{a\\le x\\le b\\}={\\displaystyle \\int_{a}^{b} f(x\) dx})  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{a\\le x\\le b\\}={\\displaystyle \\int_{a}^{b} f(x\) dx\\le 1})  
 
 
 
