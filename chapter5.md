@@ -61,7 +61,7 @@
 上記サイコロの例のように確率変数が離散値。
 
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\(A\)={\\displaystyle%20\sum_{x\in%20A}%20p(x\)}) 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\(A\)={\\displaystyle%20\\sum_{x\\in%20A}%20p(x\)}) 
 
 
 * 連続型確率変数  
