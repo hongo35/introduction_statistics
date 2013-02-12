@@ -64,7 +64,7 @@
 事象Aの確率 = {1/36, 2/36, 3/36, 4/36, 5/36, 6/36, 5/36, 4/36, 3/36, 2/36, 1/36}  
             = {p(x) | x ∈ A} 
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\(A\)={\\displaystyle%20\\sum_{x\\in%20A}%20p(x\)}) 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\(A\)={\\displaystyle%20\\sum_{x\\in%20A}%20p(x\)=1}) 
 
 
 * 連続型確率変数  
