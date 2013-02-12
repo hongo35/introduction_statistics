@@ -70,9 +70,8 @@
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{a\\le x\\le b\\}={\\displaystyle%20\\sum_{x=a}^{b}%20p(x\)\\le 1}) 
 
 
-例）  
-
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{5\\le x\\le 5\\}={\\displaystyle%20\\sum_{x=5}^{7}%20p(x\)= \\frac{15}{36}}) 
+例）  {5, 6, 7} ⊂ A  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{5\\le x\\le 7\\}={\\displaystyle%20\\sum_{x=5}^{7}%20p(x\)= \\frac{15}{36}}) 
 
 
 
