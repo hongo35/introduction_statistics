@@ -89,7 +89,7 @@
 
 連続の曲線は関数 f(x) で表され、全域では
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl={\\displaystyle \\int_{\\infty}^{\\infty} f(x\) dx})  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{-\\infty\\le x\\le \\infty\\}={\\displaystyle \\int_{-\\infty}^{\\infty} f(x\) dx = 1})  
 
 
 区間[a, b]に属する確率は区間の部分積分で求めることが出来る。
