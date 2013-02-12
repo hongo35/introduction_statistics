@@ -127,7 +127,7 @@
 
 <table>
 <tr>
-  <td>日数=値![alt text](http://chart.apis.google.com/chart?cht=tx&chl=a_i)</td><td>1日/週</td><td>2日/週</td><td>3日/週</td><td>4日/週</td><td>5日/週</td><td>6日/週</td><td>計</td>
+  <td>日数=値 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=a_i) </td><td>1日/週</td><td>2日/週</td><td>3日/週</td><td>4日/週</td><td>5日/週</td><td>6日/週</td><td>計</td>
 </tr>
 <tr>
   <td>度数</td><td>1人</td><td>2人</td><td>5人</td><td>6人</td><td>5人</td><td>1人</td><td>20人</td>
