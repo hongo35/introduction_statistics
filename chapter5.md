@@ -133,7 +133,7 @@
   <td>度数</td><td>1人</td><td>2人</td><td>5人</td><td>6人</td><td>5人</td><td>1人</td><td>20人</td>
 </tr>
 <tr>
-  <td>相対度数=確率</td><td>1/20</td><td>1/10</td><td>1/4</td><td>3/10</td><td>1/4</td><td>1/20</td><td>1</td>
+  <td>相対度数=確率変数</td><td>1/20</td><td>1/10</td><td>1/4</td><td>3/10</td><td>1/4</td><td>1/20</td><td>1</td>
 </tr>
 </table>
 
@@ -146,6 +146,9 @@
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\mu=1\\times \\frac{1}{20} %2B 2\\times \\frac{1}{10} %2B 3\\times \\frac{1}{4} %2B 4\\times \\frac{3}{10} %2B 5\\times \\frac{1}{4} %2B 6\\times \\frac{1}{20} = \\frac{75}{20} = \\frac{5 %2B 4 %2B 3  %2B 6 %2B \\dots %2B 3 %2B 1}{20} ) 
 
 * 期待値  
+
+平均μは、確率変数の期待値とも呼ばれる。
+
 * 分散  
 * 標準偏差
 
