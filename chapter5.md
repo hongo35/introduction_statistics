@@ -68,7 +68,7 @@
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\(A\)={\\displaystyle%20\\sum_{x\\in%20A}%20p(x\)=1}) 
 
 事象Aの部分が起きる確率  
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{a\le x\le b\\}={\\displaystyle%20\\sum_{x\\in%20A}%20p(x\)=1}) 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{a\le x\\le b\\}={\\displaystyle%20\\sum_{x=a}^{b}%20p(x\)=1}) 
 
 
 
