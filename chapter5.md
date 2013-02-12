@@ -68,7 +68,7 @@
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\(A\)={\\displaystyle%20\\sum_{x\\in%20A}%20p(x\)=1}) 
 
 事象Aの部分が起きる確率  
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{a\le x\\le b\\}={\\displaystyle%20\\sum_{x=a}^{b}%20p(x\)=1}) 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{a\\le x\\le b\\}={\\displaystyle%20\\sum_{x=a}^{b}%20p(x\)=1}) 
 
 
 
@@ -84,7 +84,7 @@
 
 連続の曲線は関数 f(x) で表され、確率は区間の部分積分で求めることが出来る。
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{a<x<b\\}={\\displaystyle \\int_{a}^{b} f(x\) dx})  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{a\\le x\\le b\\}={\\displaystyle \\int_{a}^{b} f(x\) dx})  
 
 
 
