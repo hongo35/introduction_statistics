@@ -143,7 +143,7 @@
 
 平均μは確率と値の積の総和でも求めることができる。（もちろん普通に値の総和を20人で割って一人平均を算出しても良い。）
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\mu=1\\times \\frac{1}{20} %2B 2\\times \\frac{1}{10} %2B 3\\times \\frac{1}{4} %2B 4\\times \\frac{3}{10} %2B 5\\times \\frac{1}{4} %2B 6\\times \\frac{1}{20} = \\frac{75}{20} = \\frac{5 %2B 4 %2B 3  %2B 6 %2B \\! \\dots \\! %2B 3 %2B 1}{20} ) 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\mu=1\\times \\frac{1}{20} %2B 2\\times \\frac{1}{10} %2B 3\\times \\frac{1}{4} %2B 4\\times \\frac{3}{10} %2B 5\\times \\frac{1}{4} %2B 6\\times \\frac{1}{20} = \\frac{75}{20} = \\frac{5 %2B 4 %2B 3  %2B 6 %2B      \\dots      %2B 3 %2B 1}{20} ) 
 
 * 期待値  
 * 分散  
