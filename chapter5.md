@@ -127,13 +127,13 @@
 
 <table>
 <tr>
-  <td>日数=値 <img src="http://chart.apis.google.com/chart?cht=tx&chl=a_i" /> </td><td>1日/週</td><td>2日/週</td><td>3日/週</td><td>4日/週</td><td>5日/週</td><td>6日/週</td><td>計</td>
+  <td>日数=値=<img src="http://chart.apis.google.com/chart?cht=tx&chl=a_i" /> </td><td>1日/週</td><td>2日/週</td><td>3日/週</td><td>4日/週</td><td>5日/週</td><td>6日/週</td><td>計</td>
 </tr>
 <tr>
   <td>度数</td><td>1人</td><td>2人</td><td>5人</td><td>6人</td><td>5人</td><td>1人</td><td>20人</td>
 </tr>
 <tr>
-  <td>相対度数=確率変数</td><td>1/20</td><td>1/10</td><td>1/4</td><td>3/10</td><td>1/4</td><td>1/20</td><td>1</td>
+  <td>相対度数=確率変数=<img src="http://chart.apis.google.com/chart?cht=tx&chl=p_i" /></td><td>1/20</td><td>1/10</td><td>1/4</td><td>3/10</td><td>1/4</td><td>1/20</td><td>1</td>
 </tr>
 </table>
 
