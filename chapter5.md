@@ -60,6 +60,7 @@
 * 離散型確率変数  
 上記サイコロの例のように確率変数が離散値。
 
+事象A = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
 
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\(A\)={\\displaystyle%20\\sum_{x\\in%20A}%20p(x\)}) 
 
