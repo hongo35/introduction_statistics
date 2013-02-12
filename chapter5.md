@@ -61,6 +61,9 @@
 上記サイコロの例のように確率変数が離散値。
 
 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\(A\\)=\\sum_{x\in A} p(x\) dx) 
+
+
 * 連続型確率変数  
 100人のヒストグラム  
 500人のヒストグラム  
