@@ -153,7 +153,7 @@
 
 平均のまわりのばらつき具合、<img src="http://chart.apis.google.com/chart?cht=tx&chl=\sigma^2" />で表される。
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\mu=1\\times \\frac{1}{20} %2B 2\\times \\frac{1}{10} %2B 3\\times \\frac{1}{4} %2B 4\\times \\frac{3}{10} %2B 5\\times \\frac{1}{4} %2B 6\\times \\frac{1}{20} = \\frac{75}{20} = \\frac{5 %2B 4 %2B 3  %2B 6 %2B \\dots %2B 3 %2B 1}{20} ) 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\sigma^2={\\displaystyle%20\\sum_{i=1}^{m}a_i^2 p_i- \\mu} ) 
 
 
 * 標準偏差
