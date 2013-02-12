@@ -143,7 +143,7 @@
 
 平均μは確率と値の積の総和で求める。
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\mu=1\\times \\frac{1}{20} \+ 1\\times \\frac{1}{10} + 1\\times \\frac{1}{4} + 1\\times \\frac{3}{10} + 1\\times \\frac{1}{4} + 1\\times \\frac{1}{20}) 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\mu=1\\times \\frac{1}{20} \\+ 1\\times \\frac{1}{10} + 1\\times \\frac{1}{4} + 1\\times \\frac{3}{10} + 1\\times \\frac{1}{4} + 1\\times \\frac{1}{20}) 
 
 * 期待値  
 * 分散  
