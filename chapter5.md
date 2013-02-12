@@ -160,5 +160,6 @@
 
 * 標準偏差
 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl= \\sigma = {\\displaystyle = \\sqrt{\\frac{119}{80}} ) 
 
 
