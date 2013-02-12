@@ -61,14 +61,20 @@
 上記サイコロの例のように確率変数が離散値。
 
 事象A       = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}  
-確率{p(x) | x ∈ A}  = {1/36, 2/36, 3/36, 4/36, 5/36, 6/36, 5/36, 4/36, 3/36, 2/36, 1/36}
 
 
 事象A全体の確率  
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\(A\)={\\displaystyle%20\\sum_{x\\in%20A}%20p(x\)=1}) 
 
 事象Aの部分が起きる確率  
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{a\\le x\\le b\\}={\\displaystyle%20\\sum_{x=a}^{b}%20p(x\)=1}) 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{a\\le x\\le b\\}={\\displaystyle%20\\sum_{x=a}^{b}%20p(x\)\\le 1}) 
+
+
+例）  
+
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{5\\le x\\le 5\\}={\\displaystyle%20\\sum_{x=5}^{7}%20p(x\)= \\frac{15}{36}}) 
+
+
 
 
 
