@@ -103,7 +103,8 @@
 * 累積分布関数  
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=F\\( a \)=P\\{-\\infty \\le  x\\le a \\})  
 
-で記述的な統一が出来る。
+で記述的な統一が出来る。  
+※便宜上、離散の定義域の最小値も無限を用いて表している。
 
 
 
