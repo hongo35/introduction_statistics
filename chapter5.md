@@ -95,5 +95,9 @@
 
 さて、離散と連続を統一的に扱うことはできるでしょうか？
 
+* 累積分布関数  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=F\\(a\\)=P\\{ x\\le a \\})  
+
+
 
 
