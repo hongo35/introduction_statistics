@@ -87,7 +87,12 @@
 
 ある程度、データ数を大きくすればグラフが「なめらか」になり連続としての性質を持つようになる。
 
-連続の曲線は関数 f(x) で表され、確率は区間の部分積分で求めることが出来る。
+連続の曲線は関数 f(x) で表され、全域では
+
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl={\\displaystyle \\int_{\\infty}^{\\infty} f(x\) dx})  
+
+
+区間[a, b]に属する確率は区間の部分積分で求めることが出来る。
 
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{a\\le x\\le b\\}={\\displaystyle \\int_{a}^{b} f(x\) dx})  
 
