@@ -61,9 +61,15 @@
 上記サイコロの例のように確率変数が離散値。
 
 事象A       = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}  
-事象Aの確率 = {1/36, 2/36, 3/36, 4/36, 5/36, 6/36, 5/36, 4/36, 3/36, 2/36, 1/36} = {p(x) | x ∈ A} 
+確率{p(x) | x ∈ A}  = {1/36, 2/36, 3/36, 4/36, 5/36, 6/36, 5/36, 4/36, 3/36, 2/36, 1/36}
 
+
+事象A全体の確率  
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\(A\)={\\displaystyle%20\\sum_{x\\in%20A}%20p(x\)=1}) 
+
+事象Aの部分が起きる確率  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{a\le x\le b\\}={\\displaystyle%20\\sum_{x\\in%20A}%20p(x\)=1}) 
+
 
 
 * 連続型確率変数  
@@ -79,5 +85,10 @@
 連続の曲線は関数 f(x) で表され、確率は区間の部分積分で求めることが出来る。
 
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=P\\{a<x<b\\}={\\displaystyle \\int_{a}^{b} f(x\) dx})  
+
+
+
+さて、離散と連続を統一的に扱うことはできるでしょうか？
+
 
 
