@@ -127,10 +127,10 @@
 
 <table>
 <tr>
-  <td>日数=値</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>計</td>
+  <td>日数=値</td><td>1回/週</td><td>2回/週</td><td>3回/週</td><td>4回/週</td><td>5回/週</td><td>6回/週</td><td>計</td>
 </tr>
 <tr>
-  <td>度数</td><td>1</td><td>2</td><td>5</td><td>6</td><td>5</td><td>1</td><td>20</td>
+  <td>度数</td><td>1人</td><td>2人</td><td>5人</td><td>6人</td><td>5人</td><td>1人</td><td>20人</td>
 </tr>
 <tr>
   <td>相対度数=確率</td><td>1/20</td><td>1/10</td><td>1/4</td><td>3/10</td><td>1/4</td><td>1/20</td><td>1</td>
