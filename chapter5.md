@@ -118,8 +118,8 @@
 
 
 
-#### 5.2 確率変数の平均値と標準偏差  
-* 平均値  
+#### 5.2 確率変数の平均値と標準偏差 
+
 大学生20人が１週間に大学に出ている回数  
 
 5, 4, 3, 6, 5, 4, 4, 3, 2, 3, 5, 4, 5, 4, 2, 5, 3, 4, 3, 1
@@ -127,16 +127,23 @@
 
 <table>
 <tr>
-  <td>日数</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>計</td>
+  <td>日数=値</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>計</td>
 </tr>
 <tr>
   <td>度数</td><td>1</td><td>2</td><td>5</td><td>6</td><td>5</td><td>1</td><td>20</td>
 </tr>
 <tr>
-  <td>相対度数</td><td>1/20</td><td>1/10</td><td>1/4</td><td>3/10</td><td>1/4</td><td>1/20</td><td>1</td>
+  <td>相対度数=確率</td><td>1/20</td><td>1/10</td><td>1/4</td><td>3/10</td><td>1/4</td><td>1/20</td><td>1</td>
 </tr>
 </table>
 
+
+
+* 平均値  
+
+平均μは確率と値の積の総和で求める。
+
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\mu=1\\times \\frac{1}{20}) 
 
 * 期待値  
 * 分散  
