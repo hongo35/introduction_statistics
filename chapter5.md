@@ -155,7 +155,7 @@
 
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\sigma^2={\\displaystyle%20\\sum_{i\\ge 1} a_i^2 p_i- \\mu^2}) 
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl={\\displaystyle =1^2 \\times \\frac{1}{20} %2B 2^2 \\times \\frac{1}{10} %2B 3^2 \\times \\frac{1}{4} %2B 4^2 \\times \\frac{3}{10} %2B 5^2 \\times \\frac{1}{4} %2B 6^2 \\times \\frac{1}{20} - \\(\\frac{75}{20}\\)^2= \\frac{119}{80} ) 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl={\\displaystyle =1^2 \\times \\frac{1}{20} %2B 2^2 \\times \\frac{1}{10} %2B 3^2 \\times \\frac{1}{4} %2B 4^2 \\times \\frac{3}{10} %2B 5^2 \\times \\frac{1}{4} %2B 6^2 \\times \\frac{1}{20} - \\(\\frac{75}{20}\)^2= \\frac{119}{80} ) 
 
 
 * 標準偏差
