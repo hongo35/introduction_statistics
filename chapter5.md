@@ -153,7 +153,7 @@
 
 平均のまわりのばらつき具合、<img src="http://chart.apis.google.com/chart?cht=tx&chl=\sigma^2" />で表される。
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\sigma^2={\\displaystyle%20\\sum_{i=1}^{m}a_i^2 p_i- \\mu} ) 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=\\sigma^2={\\displaystyle%20\\sum_{i\ge1} a_i^2 p_i- \\mu} ) 
 
 
 * 標準偏差
