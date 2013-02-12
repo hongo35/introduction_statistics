@@ -103,6 +103,15 @@
 * 累積分布関数  
 ![alt text](http://chart.apis.google.com/chart?cht=tx&chl=F\\( a \)=P\\{ x\\le a \\})  
 
+で記述的な統一が出来る。
+
+
+
+#### 5.2 確率変数の平均値と標準偏差  
+* 平均値  
+* 期待値  
+* 分散  
+* 標準偏差
 
 
 
