@@ -101,10 +101,10 @@
 さて、離散と連続を統一的に扱うことはできるでしょうか？
 
 * 累積分布関数  
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl=F\\( a \)=P\\{-\\infty \\le  x\\le a \\})  
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl=F\\( b \)=P\\{-\\infty \\le  x\\le b \\})  
 
 で記述的な統一が出来る。  
-※便宜上、離散の定義域の最小値も無限を用いて表している。
+※便宜上、有限離散定義域の最小値も無限を用いて表している。
 
 
 
