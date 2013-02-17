@@ -162,7 +162,7 @@
 
 * 標準偏差
 
-![alt text](http://chart.apis.google.com/chart?cht=tx&chl= \\sigma = {\\displaystyle \\sqrt{\\sigma^2 }= \\sqrt{\\frac{119}{80}} ) 
+![alt text](http://chart.apis.google.com/chart?cht=tx&chl= \\sigma = {\\displaystyle \\sqrt{\\sigma\^2 }= \\sqrt{\\frac{119}{80}} ) 
 
 * 標準化
 
